@@ -8,12 +8,6 @@
 
 Machine Learning Master's student at KTH Stockholm, currently studying at the University of Washington. My interests span deep learning, entrepreneurship, and finance, with a side passion for chess.
 
-## 🔬 Research & Focus Areas
-
-- **Machine Learning & AI**: Deep learning architectures, natural language processing, and AI applications
-- **Entrepreneurship**: Building innovative solutions and exploring tech startups
-- **Finance**: Applying ML techniques to financial analysis and prediction models
-
 ## 💻 Technical Skills
 
 ### Machine Learning & AI

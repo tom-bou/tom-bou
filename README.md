@@ -29,7 +29,16 @@ Machine Learning Master's student at KTH Stockholm, currently studying at the Un
 ### Programming Languages & Platforms
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats-mu-six-73.vercel.app/api/top-langs/?username=tom-bou&layout=compact&theme=radical&hide=jupyter%20notebook)
+
+### Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tom-bou&theme=radical)
 
 ## 📫 Connect With Me
 

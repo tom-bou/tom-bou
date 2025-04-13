@@ -31,11 +31,3 @@ Machine Learning Master's student at KTH Stockholm, currently studying at the Un
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-## 📫 Connect With Me
-
-I'm always open to interesting collaborations and discussions about machine learning, AI, and technology.
-
-- 🌐 **Website**: [tomboustedt.com](https://tomboustedt.com)
-- 📧 **Email**: [boustedttom@gmail.com](mailto:boustedttom@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/tomboustedt](https://www.linkedin.com/in/tomboustedt/)
